@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "demos", "src\demos\demos.xproj", "{46BADD4D-57BC-4DC9-956A-D5B871F0ACCD}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ClassLibrary1", "src\ClassLibrary1\ClassLibrary1.xproj", "{3EDB1FE4-889B-41DB-828F-2D8897200065}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +24,16 @@ Global
 		{46BADD4D-57BC-4DC9-956A-D5B871F0ACCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46BADD4D-57BC-4DC9-956A-D5B871F0ACCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46BADD4D-57BC-4DC9-956A-D5B871F0ACCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDB1FE4-889B-41DB-828F-2D8897200065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDB1FE4-889B-41DB-828F-2D8897200065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDB1FE4-889B-41DB-828F-2D8897200065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDB1FE4-889B-41DB-828F-2D8897200065}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{46BADD4D-57BC-4DC9-956A-D5B871F0ACCD} = {335A1E18-C25B-4F70-A876-7357E337ABD0}
+		{3EDB1FE4-889B-41DB-828F-2D8897200065} = {335A1E18-C25B-4F70-A876-7357E337ABD0}
 	EndGlobalSection
 EndGlobal
