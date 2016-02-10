@@ -1,0 +1,10 @@
+﻿@model demos.models.Post
+@{
+    Layout = "_Layout";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.TextAreaFor(x=>x.Title)
+    <button type="submit">Create</button>
+}

@@ -1,0 +1,6 @@
+{
+  "directory": "wwwroot/lib",
+  "https-proxy": "http://http.proxy.fmr.com:8000/",
+  "proxy": "http://http.proxy.fmr.com:8000/",
+  "timeout": 120000
+}
